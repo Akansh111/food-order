@@ -1,0 +1,21 @@
+.order-summary {
+    width: 35%;
+    margin: 24px 35px;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 32px;
+    font-weight: bold;
+}
+.summary-table {
+    height: 230px;
+    overflow: auto;
+}
+.cart-total {
+    font-size: 23px;
+    font-weight: bold;
+}

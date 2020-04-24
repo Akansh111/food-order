@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders OrderSummary renders 1`] = `
+<div
+  className="order-summary"
+>
+  <div
+    className="card-title"
+  >
+    ORDER SUMMARY
+  </div>
+  <br />
+  <div
+    className="summary-table"
+  >
+    <table
+      className="table table-striped"
+    >
+      <tbody>
+        <tr>
+          <td>
+            Panner King's Melt
+             - 
+            ₹129
+          </td>
+          <td>
+             = 
+          </td>
+          <td>
+            <b>
+              ₹ 116.10 (after applying discount)
+            </b>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="cart-total"
+  >
+    Total: ₹116.10
+  </div>
+  <button
+    className="btn btn-primary btn-block btn-lg"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+  >
+    Confirm Order
+  </button>
+</div>
+`;

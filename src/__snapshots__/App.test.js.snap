@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders app.js 1`] = `
+<div
+  className="container-fluid"
+>
+  <div
+    className="title"
+  >
+    <h1>
+      Lets BANG ON to your Favourite Burger
+    </h1>
+    <h3>
+      ORDER NOW!!!
+    </h3>
+  </div>
+  <div
+    className="food-menu ag-theme-balham"
+  >
+    <div
+      className="ag-grid"
+    >
+      <div
+        style={
+          Object {
+            "height": "100%",
+          }
+        }
+      />
+    </div>
+    <div
+      className="order-summary"
+    >
+      <div
+        className="card-title"
+      >
+        ORDER SUMMARY
+      </div>
+      <br />
+      <div
+        className="summary-table"
+      >
+        <table
+          className="table table-striped"
+        >
+          <tbody>
+            <div>
+              Select the items from the Menu!
+            </div>
+          </tbody>
+        </table>
+      </div>
+      <div
+        className="cart-total"
+      >
+        Total: ₹0.00
+      </div>
+      <button
+        className="btn btn-primary btn-block btn-lg"
+        disabled={true}
+        onClick={[Function]}
+        type="button"
+      >
+        Confirm Order
+      </button>
+    </div>
+  </div>
+</div>
+`;
