@@ -1,4 +1,4 @@
-export const url = 'http://demo8151081.mockable.io/getFoodData';
+export const url = 'https://demo8151081.mockable.io/getFoodData';
 export const mainTitle = 'Lets BANG ON to your Favourite Burger';
 export const orderNowTitle = 'ORDER NOW!!!';
 export const menuMessage = 'Select the items from the Menu!';
